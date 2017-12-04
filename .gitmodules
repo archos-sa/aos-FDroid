@@ -1,0 +1,39 @@
+[submodule "AVP"]
+	path = AVP
+	url = https://github.com/archos-sa/aos-AVP.git
+[submodule "FileCoreLibrary"]
+	path = FileCoreLibrary
+	url = https://github.com/archos-sa/aos-FileCoreLibrary.git
+[submodule "MediaLib"]
+	path = MediaLib
+	url = https://github.com/archos-sa/aos-MediaLib.git
+[submodule "Video"]
+	path = Video
+	url = https://github.com/archos-sa/aos-Video.git
+[submodule "native/avos"]
+	path = native/avos
+	url = https://github.com/archos-sa/aos-avos.git
+[submodule "native/audiocompress"]
+	path = native/audiocompress
+	url = https://github.com/archos-sa/aos-audiocompress.git
+[submodule "native/ffmpeg-android-builder"]
+	path = native/ffmpeg-android-builder
+	url = https://github.com/archos-sa/aos-ffmpeg-android-builder.git
+[submodule "native/libyuv"]
+	path = native/libyuv
+	url = https://github.com/archos-sa/aos-libyuv.git
+[submodule "native/libnativehelper"]
+	path = native/libnativehelper
+	url = https://github.com/archos-sa/aos-libnativehelper.git
+[submodule "native/boost"]
+	path = native/boost
+	url = https://github.com/archos-sa/aos-boost.git
+[submodule "native/libtorrent"]
+	path = native/libtorrent
+	url = https://github.com/archos-sa/aos-libtorrent.git
+[submodule "native/torrentd"]
+	path = native/torrentd
+	url = https://github.com/archos-sa/aos-torrentd.git
+[submodule "native/android-libs"]
+	path = native/android-libs
+	url = https://github.com/archos-sa/aos-android-libs.git
