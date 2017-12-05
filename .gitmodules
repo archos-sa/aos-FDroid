@@ -25,9 +25,6 @@
 [submodule "native/libnativehelper"]
 	path = native/libnativehelper
 	url = https://github.com/archos-sa/aos-libnativehelper.git
-[submodule "native/boost"]
-	path = native/boost
-	url = https://github.com/archos-sa/aos-boost.git
 [submodule "native/android-libs"]
 	path = native/android-libs
 	url = https://github.com/archos-sa/aos-android-libs.git
