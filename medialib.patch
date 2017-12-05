@@ -1,0 +1,14 @@
+diff --git a/MediaLib/build.gradle b/MediaLib/build.gradle
+index ce7ce35..140c682 100644
+--- a/MediaLib/build.gradle
++++ b/MediaLib/build.gradle
+@@ -3,9 +3,6 @@ apply plugin: 'com.android.library'
+ repositories {
+     mavenCentral()
+     mavenLocal()
+-    maven {
+-        url 'http://4thline.org/m2'
+-    }
+     maven { url 'https://jitpack.io' }
+ }
+ 

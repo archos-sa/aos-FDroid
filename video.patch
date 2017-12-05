@@ -1,0 +1,14 @@
+diff --git a/Video/build.gradle b/Video/build.gradle
+index 65b67e83..8de5d8ca 100644
+--- a/Video/build.gradle
++++ b/Video/build.gradle
+@@ -18,9 +18,6 @@ allprojects {
+         jcenter()
+         mavenCentral()
+         mavenLocal()
+-        maven {
+-            url 'http://4thline.org/m2'
+-        }
+         maven { url 'https://oss.sonatype.org/content/repositories/snapshots/' }
+         maven { url 'https://jitpack.io' }
+     }
