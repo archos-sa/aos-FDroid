@@ -28,12 +28,6 @@
 [submodule "native/boost"]
 	path = native/boost
 	url = https://github.com/archos-sa/aos-boost.git
-[submodule "native/libtorrent"]
-	path = native/libtorrent
-	url = https://github.com/archos-sa/aos-libtorrent.git
-[submodule "native/torrentd"]
-	path = native/torrentd
-	url = https://github.com/archos-sa/aos-torrentd.git
 [submodule "native/android-libs"]
 	path = native/android-libs
 	url = https://github.com/archos-sa/aos-android-libs.git
